@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/ayushukla1/ayushukla1/assets/82086744/cd965773-1da9-46bf-8868-21bbf5c3b558)
 
 <!--
 **ayushukla1/ayushukla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
